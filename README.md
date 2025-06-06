@@ -14,6 +14,6 @@ log-archive <log-directory> <archive directory>
 ```
 
 * The tool will compress the logs in a tar.gz file and store them in the provided archive directory.
-* The tool will log the date and time of the archive to a file.
+* The tool will log the date and time of the archive to the file.
 
 
